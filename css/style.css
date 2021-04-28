@@ -8,13 +8,14 @@ body {
 }
 
 .site-wide-alert {
-    color: #544600;
-    border: 1px solid transparent;
     border-radius: 0;
     margin-bottom: 0;
     padding: 5px 15px;
     background-color: #eec802;
     border-color: #eec802;
+
+ /*   color: #544600;
+    border: 1px solid transparent; */
 }
 
 .callout-container {
@@ -78,14 +79,14 @@ body {
     margin-bottom: 0;
     border: 0;
     width: 100%;
-    background-color: rgba(0, 0, 0, 0.25);
+    background-color: rgba (0, 0, 0, 0.25);
 }
 
 .navbar .navbar-toggler {
     border: 0;
 }
 
-.navbar .navbar-brand {
+.navbar-brand {
     font-weight: bold;
 }
 
